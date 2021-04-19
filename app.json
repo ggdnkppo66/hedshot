@@ -7,7 +7,7 @@
         "Bot"
     ],
     "website": "https://reboot13.hashnode.dev",
-    "repository": "https://github.com/reboot13-git/telegram-bot",
+    "repository": "https://github.com/sjnoubs/hedshot",
     "success_url": "/",
     "env": {
         "API_TOKEN": {
