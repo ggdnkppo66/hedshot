@@ -1,0 +1,27 @@
+{
+    "name": "Telegram Bot",
+    "description": "A simple PHP powered Telegram Bot",
+    "keywords": [
+        "PHP",
+        "Telegram",
+        "Bot"
+    ],
+    "website": "https://reboot13.hashnode.dev",
+    "repository": "https://github.com/reboot13-git/telegram-bot",
+    "success_url": "/",
+    "env": {
+        "API_TOKEN": {
+            "description": "API Token , get it from @BotFather"
+        },
+        "CHAT": {
+           "description": "Enter Your Channel or Chat Username eg- @reboot13"
+    }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
